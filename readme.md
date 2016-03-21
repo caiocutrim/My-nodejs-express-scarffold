@@ -4,7 +4,7 @@ This is my personal initial configuration to start in my node.js/express project
 ![expressandnode](http://www.softwaresecured.com/wp-content/uploads/2015/04/express-js.jpg)
 
 
-The dependecy directory
+The dependecy tree directories
 ```ASCII
 .
 ├── bin
